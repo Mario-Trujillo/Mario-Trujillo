@@ -1,27 +1,9 @@
-### Hola, soy Mario 👋
+## Mario Trujillo
 
-Estudiante de 2º curso de Ingeniería Matemática en Ciencia de Datos en la **Universitat Pompeu Fabra** (Barcelona). Me apasiona la intersección entre estadística, probabilidad y Machine Learning aplicados a problemas reales.
+Estudio Ingeniería Matemática en Ciencia de Datos en la UPF (voy por 2º curso). Me interesa sobre todo lo que tiene que ver con inferencia estadística, modelado probabilístico y machine learning aplicados a problemas reales.
 
-🔭 **Ahora mismo estoy construyendo:** una herramienta de inteligencia salarial para perfiles Tech/Data en España. Pipeline de scraping y NLP sobre ofertas de empleo reales, con reducción de dimensionalidad (embeddings + PCA/UMAP), modelos de Machine Learning y un modelo bayesiano para cuantificar la incertidumbre de cada estimación. 👉 [Ver repositorio](https://github.com/Mario-Trujillo/salary-intelligence-es)
+Ahora mismo estoy metido en un proyecto propio: una herramienta que estima el rango salarial esperado para perfiles tech/data en España a partir de ofertas de empleo reales (scraping, limpieza, NLP y algo de estadística bayesiana para no fingir más precisión de la que los datos dan). Lo tienes en [salary-intelligence-es](https://github.com/Mario-Trujillo/salary-intelligence-es) — de momento está en construcción, iré subiendo avances según los vaya teniendo de verdad, no antes.
 
-🌱 **Aprendiendo activamente:** PyTorch, NLP/embeddings, SQL avanzado, Docker, y despliegue en cloud (AWS/GCP)
+Vengo de Python, C, C++ y Java por la carrera, y voy aprendiendo scikit-learn, PyTorch y algo de SQL más avanzado por mi cuenta.
 
-💬 **Pregúntame sobre:** estadística aplicada, probabilidad, diseño de algoritmos, análisis de datos
-
-📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/mariotrujillo019) · mario.trujillo019@gmail.com
-
----
-
-#### 🛠️ Stack técnico
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-#### 📊 Estadísticas
-
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario-Trujillo&show_icons=true&theme=default&hide_border=true)
+Si tienes feedback sobre el proyecto o simplemente quieres comentar algo de datos/estadística, aquí estoy: [LinkedIn](https://www.linkedin.com/in/mariotrujillo019) o mario.trujillo019@gmail.com
